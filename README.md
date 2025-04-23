@@ -8,7 +8,7 @@
 
 ## 🔹 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freimisi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
