@@ -1,3 +1,5 @@
+<img src="cover.jpg">
+
 # Welcome
 🧪 Data Scientist in the making  
 
